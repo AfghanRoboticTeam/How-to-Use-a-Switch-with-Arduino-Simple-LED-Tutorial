@@ -1,17 +1,15 @@
 📌 What You'll Learn:
 
 How to wire a switch to an Arduino
-Programming the Arduino to read the switch input
 Controlling an LED with a button press
-Basic troubleshooting tips for switches
+
 
 
 🔧 Components Used: 
 
 Arduino Uno
-Push Button Switch
+Button Switch
 LED
-Resistor
 Breadboard
 Jumper Wires
 
