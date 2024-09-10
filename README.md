@@ -6,7 +6,7 @@ Controlling an LED with a button press
 Basic troubleshooting tips for switches
 
 
-🔧 Components Used:
+🔧 Components Used: 
 
 Arduino Uno
 Push Button Switch
